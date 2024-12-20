@@ -1,1 +1,1 @@
-This and index that will help identiying BTC tops ant bottoms
+A collection of indices and indicators that will help identifying trends, tops and bottoms
